@@ -10,4 +10,3 @@ For the ETL mini project, you will work with a partner to practice building an E
 * Create the Contacts DataFrame
 * Create the Crowdfunding Database
 
-# ERD
